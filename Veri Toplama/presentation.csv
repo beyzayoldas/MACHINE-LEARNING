@@ -1,0 +1,631 @@
+Fiyat,Marka,Kasa_capi,Garanti_suresi,Batarya_kapasitesi,Ekran_boyutu,Sesli_gorusme,Renk,Titresim,GPS,Isletim_tipi,Kordon_renk
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+1211.0,QAP,49.0,1,450.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+2890.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Turuncu,Yok,Yok,iOS,Çok Renkli
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android,Siyah
+14999.0,Apple,43.0,2,350.0,1.25,Var,Beyaz,Var,Var,iOS,Beyaz
+1342.0,Xiaomi,45.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Siyah
+2430.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Siyah,Var,Yok,Android + iOS,Pembe
+38999.0,Apple,49.0,2,550.0,1.75,Var,Metalik,Var,Var,iOS,Mavi
+299.0,Foon,,2,250.0,1.75,Var,Siyah,Var,Yok,,Siyah
+906.0,SeyuTech,47.0,2,350.0,2.25,Var,Gümüş,Var,Yok,Android + iOS,Siyah
+3690.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android,Siyah
+816.0,Teknoloji Gelsin,49.0,0,250.0,2.25,Var,Gümüş,Var,Var,Android + iOS,Siyah
+197.0,Universal,42.0,2,,1.75,Var,Siyah,Var,Yok,Diğer,Siyah
+1299.0,TEKNOHANE,44.0,1,250.0,1.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+3490.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android,Siyah
+1275.0,Wyze,49.0,2,350.0,2.25,Var,Siyah,Var,Var,Android + iOS,Siyah
+2949.0,SMARTEST,43.0,2,100.0,1.75,Var,Siyah,Yok,Yok,Android + iOS,Turuncu
+631.0,NewBlue,43.0,2,1500.0,4.25,Var,Beyaz,Var,Var,Android,Siyah
+2899.0,Teknoloji Gelsin,45.0,2,900.0,1.75,Var,Beyaz,Yok,Yok,iOS,Çok Renkli
+16299.0,Apple,45.0,2,250.0,1.75,Var,Pembe,Var,Var,iOS,Pembe
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Beyaz,Var,Yok,Android + iOS,Pembe
+1334.0,QAP,41.0,1,350.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+6590.0,TECHNOMEN,44.0,2,1500.0,1.75,Var,Siyah,Var,Var,Android,Siyah
+13990.0,TEKNOHANE,45.0,1,450.0,1.75,Var,Gri,Var,Var,Android + iOS,Gri
+2390.0,TECHNOMEN,44.0,2,250.0,1.75,Var,Pembe,Var,Yok,Android + iOS,Pembe
+699.0,SEYUWATCH,45.0,1,250.0,1.75,Var,Bej,Var,Yok,Android,Bej
